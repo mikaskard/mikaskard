@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name]  
+👋 Hi there! I'm Michail.  
 💻 Studying Computer Science !
 🚀 Passionate about coding and exploring new technologies  
 🌱 Currently learning more about software development and algorithms  
