@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michail  
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/iSD0xUVEd8iABcQpTg" width="364" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="https://www.flaticon.com/free-icon/3d-target_10473571?term=3d&page=1&position=6&origin=tag&related_id=10473571" width="100"/>
 </div>
 ## About Me
 
