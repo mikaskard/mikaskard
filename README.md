@@ -11,8 +11,8 @@ I'm a Computer Science student with a good understanding of scripting. I enjoy w
 📫 How to reach me: mkardachakis@gmail.com
 
 ⚡ Fun fact: "Programming is like solving puzzles, one piece at a time!"  
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlsdWg5NWkzY290OHNtbzgxdGhtaDBkNWt0MHNqYmlwbW5wMXUyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.webp" width="130"/>
+<div id="header" align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlsdWg5NWkzY290OHNtbzgxdGhtaDBkNWt0MHNqYmlwbW5wMXUyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.webp" width="150"/>
 </div>
 
 ## Languages and Tools:
