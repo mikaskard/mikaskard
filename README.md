@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michail  
 <div id="header" align="center">
-  <img src="https://pixcap.com/item/macos-message-1676385840601" width="100"/>
+  <img src="https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/thumb-up-dynamic-clay.png" width="100"/>
 </div>
 ## About Me
 
