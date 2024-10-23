@@ -12,7 +12,7 @@ I'm a Computer Science student with a good understanding of scripting. I enjoy w
 
 ⚡ Fun fact: "Programming is like solving puzzles, one piece at a time!"  
 <div id="header" align="center">
-  <img src="https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/thumb-up-dynamic-clay.png" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHlsdWg5NWkzY290OHNtbzgxdGhtaDBkNWt0MHNqYmlwbW5wMXUyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.webp" width="100"/>
 </div>
 
 ## Languages and Tools:
