@@ -1,7 +1,4 @@
 # Hi 👋, I'm Michail  
-<div id="header" align="center">
-  <img src="https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/thumb-up-dynamic-clay.png" width="100"/>
-</div>
 ## About Me
 
 I'm a Computer Science student with a good understanding of scripting. I enjoy working on software development and exploring new technologies!
@@ -14,6 +11,9 @@ I'm a Computer Science student with a good understanding of scripting. I enjoy w
 📫 How to reach me: mkardachakis@gmail.com
 
 ⚡ Fun fact: "Programming is like solving puzzles, one piece at a time!"  
+<div id="header" align="center">
+  <img src="https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/thumb-up-dynamic-clay.png" width="100"/>
+</div>
 
 ## Languages and Tools:
 ![Lua](https://img.shields.io/badge/Lua-blue)
