@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michail  
 <div id="header" align="center">
-  <img src="https://www.flaticon.com/free-icon/3d-target_10473571?term=3d&page=1&position=6&origin=tag&related_id=10473571" width="100"/>
+  <img src="https://3dicons.sgp1.cdn.digitaloceanspaces.com/v1/dynamic/clay/axe-dynamic-clay.png" width="100"/>
 </div>
 ## About Me
 
