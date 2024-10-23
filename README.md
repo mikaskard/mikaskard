@@ -1,6 +1,6 @@
 # Hi 👋, I'm Michail  
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="<iframe src="https://giphy.com/embed/iSD0xUVEd8iABcQpTg" width="364" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-iSD0xUVEd8iABcQpTg">via GIPHY</a></p>"/>
 </div>
 ## About Me
 
