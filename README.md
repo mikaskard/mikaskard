@@ -3,9 +3,9 @@
 
 I'm a Computer Science student with a good understanding of scripting. I enjoy working on software development and exploring new technologies!
 
-🔭 I’m currently working on Lua-based projects  
+🔭 I’m currently working on Java-based projects  
 🌱 I’m currently learning more about software development, algorithms, and various programming languages  
-👯 I’m looking to collaborate on Lua scripts and other projects     
+👯 I’m looking to collaborate on any kind of projects   
 📝 I regularly create Lua scripts and small projects for gaming purposes  
 💬 Ask me about scripting or general programming topics  
 📫 How to reach me: mkardachakis@gmail.com
