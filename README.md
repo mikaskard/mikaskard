@@ -1,4 +1,4 @@
-# Hi 👋, I'm Michail  
+# Hi 👋, I'm Michael
 ## About Me
 
 I'm a Computer Science student with a good understanding of scripting. I enjoy working on software development and exploring new technologies!
